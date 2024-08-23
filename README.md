@@ -1,7 +1,7 @@
 i- 👋 Hi, I’m @ABDULBASITKHAN001
 - 👀 I’m interested in PROGRAMMING
 - 🌱 I’m currently learning TYPESCRIPT
-- 💞️ I’m looking to collaborate on ...
+-  I’m looking to collaborate on ...
 - 📫 How to reach me ...NO.WAY
 
 <!---
