@@ -1,7 +1,7 @@
 i- 👋 Hi, I’m @ABDULBASITKHAN001
-- 👀 I’m interested in PROGRAMMING
-- 🌱 I’m currently learning JAVASCRIPT
--  I’m looking to collaborate on ...
+- 👀 I’m interested in PROJECTS
+- 🌱 I’m currently learning Web And App Development Course
+-  I’m looking to collaborate on PROJECTS
 - 📫 How to reach me ...NO.WAY
 
 <!---
